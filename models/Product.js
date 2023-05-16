@@ -39,7 +39,7 @@ Product.init(
     },
     refrences: {
       model: 'category',
-      key: 'id'
+      key: 'id',
     }
    
   },
